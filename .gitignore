@@ -1,0 +1,7 @@
+*.iml
+.idea/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+google_services.json
